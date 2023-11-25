@@ -1,0 +1,37 @@
+.player-form {
+  background-color: white;
+  width: 50%;
+  margin: auto;
+}
+.form {
+  padding: 10px;
+  border: 1px solid rgb(187, 186, 186);
+}
+#green {
+  width: 50%;
+  margin-top: 10px;
+  text-align: center;
+  background-color: green;
+}
+h2 {
+  text-align: center;
+}
+label {
+  margin-top: 10px;
+}
+label {
+  width: 50%;
+  display: block;
+}
+
+input {
+  width: 300px;
+  height: 30px;
+}
+#search {
+  margin-top: 10px;
+}
+.form-search {
+  float: right;
+  height: 500px;
+}
